@@ -1,2 +1,2 @@
-# mtb-circuitbreaker-resilience4j
+# circuitbreaker-resilience4j
 
